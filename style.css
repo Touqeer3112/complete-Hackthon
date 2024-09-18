@@ -143,7 +143,7 @@ width: 100px;
 .icons h3{
     margin-left: 15px;
     margin-top: 4px;
-    font-weight: 300;
+    font-weight: 100;
 }
 
 #rig{
@@ -160,6 +160,7 @@ width: 100px;
     padding: 2%;
     gap: 2%;
     margin-left:80px;
+    margin-top: 4%;
 }
 
 .text2 h4{
