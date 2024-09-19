@@ -173,7 +173,7 @@ width: 100px;
 
 
 
-/* .accordion{
+.accordion{
     margin-left: 100px;
     font-weight: 400;
     font-size: 25px;
@@ -188,20 +188,26 @@ width: 100px;
     background-color: lawngreen;
     font-size: 10px;
 }
+.accordion-header button{
+    font-size: 25px;
+}
 .accordion-body{
     background-color: lawngreen;
 }
 .accordion-button{
     background-color: lawngreen;
-    font-size: 10px;
+    font-size: 20px;
+}
+.accordion-button collapsed{
+    font-size:  15px;
 }
 
 .change{
     margin-top: 50px;
     border-radius: 180px;
-} */
+}
 
-
+/* 
 .section2{
     width: 100%;
     padding-top: 60px;
@@ -263,7 +269,7 @@ width: 100px;
 .card p{
     margin-top: 25px;
     font-weight: 400;
-}
+} */
 
 
 .contact{
